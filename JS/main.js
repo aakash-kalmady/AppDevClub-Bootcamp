@@ -2,6 +2,7 @@
 
 // headingElement.innerText = "not to do";
 
+//using git commands
 let input = document.getElementById("input");
 let submit = document.getElementById("submit");
 let items = document.getElementById("items");
